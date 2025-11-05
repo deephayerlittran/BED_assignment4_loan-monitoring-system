@@ -4,7 +4,7 @@ import morgan from "morgan";
 
 // import setupSwagger endpoint
 import setupSwagger from "../config/swagger";
-import itemRoutes from "./api/v1/routes/itemRoutes";
+import itemRoutes from "./api/v1/routes/ItemRoutes";
 import userRoutes from "./api/v1/routes/userRoutes";
 import adminRoutes from "./api/v1/routes/adminRoutes";
 
